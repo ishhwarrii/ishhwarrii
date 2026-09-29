@@ -13,7 +13,7 @@
 - 📜 Completed a **Diploma in AI and Machine Learning** at New Institute of Technology, Kolhapur (2022–2025)
 - 🌱 Currently exploring **AI/ML, MLOps, and open-source contribution**
 - 🎨 Also active in **design, marketing, and geopolitics**
-- 🤝 Involved with **E-Cell DYPSEM** (Creative and Brand Director), **Techfest IIT Bombay** (College Ambassador), **OSCI 26** (Contributor), and **GDSC DYPSEM** 
+- 🤝 Involved with **E-Cell DYPSEM** (Creative and Brand Director), **Techfest IIT Bombay** (College Ambassador), **OSCI 26** (Contributor), **GDSC DYPSEM** and **NEC IITB** (Core Member) 
 - 💬 Ask me about AI/ML, open source, or design & marketing strategy
 
 ---
