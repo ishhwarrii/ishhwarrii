@@ -1,84 +1,44 @@
-<h1 align="center">Yo 👋, I'm Ishwari </h1>
-<h3 align="center">Building in AI/ML, Open Source & Design</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=200&section=header&text=Ishwari%20Deshmukh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+# Ishwari Deshmukh
 
----
+**Data Science Student · Python · Open Source · Systems from Scratch**
 
-## 🚀 About Me
+Third-year B.Tech Data Science student
 
-- 🎓 Pursuing **B.Tech in Data Science** at D. Y. Patil School of Engineering and Management, Kolhapur (2025–2028)
-- 📜 Completed a **Diploma in AI and Machine Learning** at New Institute of Technology, Kolhapur (2022–2025)
-- 🌱 Currently exploring **AI/ML, MLOps, and open-source contribution**
-- 🎨 Also active in **design, marketing, and geopolitics**
-- 🤝 Involved with **E-Cell DYPSEM** (Creative and Brand Director), **Techfest IIT Bombay** (College Ambassador), **OSCI 26** (Contributor), **GDSC DYPSEM** and **NEC IITB** (Core Member) 
-- 💬 Ask me about AI/ML, open source, or design & marketing strategy
+<a href="https://www.linkedin.com/in/ishhwarrii"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:your-ishhwarriiedu@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+</div>
 
 ---
 
-## 🛠️ Tech & Tools
+## About
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%2FML-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20Source-2ea44f?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Design-EC4899?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+I'm a third-year **Data Science** student at D. Y. Patil School of Engineering and Management, Kolhapur (Class of 2028), focused on **building things from the ground up**.
+
+Interested in how data systems work internally, APIs, and building projects that go beyond tutorials.
+
+Marketing (Social media) and Design Head at **DYPSEM E-CELL**, Techfest IITB Campus Ambassador, National Entrepreneurship Challenge (NEC) Core Member, Tier 1 developer badge at **ECSOC 26**, Contributor in **Open Source Connect 26**, Creative Intern at **E-CELL IITB**
+
+## Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,java,r,css,cpp,pandas,NumPy,scikit-learn,fastapi,git,github,vscode&perline=10" alt="Tech stack">
 </p>
 
----
+## Selected Work
 
-## 📂 Selected Work
+- **Python Systems** — foliodb (a database from scratch) 
+- **Redis Cache** — Flint, an in-memory key-value store (mini-Redis) built in java from scratch
+- **Open Source** — contributing to existing codebases through various organizations
+- **Counter UAS** — drone detection using YOLOv8  
+- **MPLAD Anomaly Detection** - AI system to detect anomalies and inefficiencies in the MPLAD Scheme
 
-📘 **OpenHire** — Contributing backend validation fixes  
-🔗 https://github.com/DevSidd2006/openhire
+Along with technical skills I'm passionate about **video editing and content creation**, and I love taking an idea from a rough concept to a finished piece. I'm skilled in **creative thinking and visualization**, turning abstract ideas into visuals people actually want to look at, and I bring the same passion to **presentations and public speaking**.
 
-📘 **DevMomentum** — Building REST API backend features  
-🔗 https://github.com/revatikadam0607/DevMomentum
+As Marketing and Design Team Lead, I'm passionate about growing the social presence of E-Cell DYPSEM through content which is fun, trendy to get people interested in entrepreneurship. You can see the work here: [@dypsem.ecell on Instagram](https://www.instagram.com/dypsem.ecell).
 
-⚡ **Flint** — A Redis-inspired in-memory key-value database built from scratch in Java, as a systems-programming learning project. Covers TCP byte-stream behavior, client-server architecture, and core database commands (`set`, `get`, `delete`, `exists`), built milestone by milestone (21 planned in total).  
-🔗 https://github.com/ishhwarrii/flint
+## Let's Connect
 
-🛰️ **Counter-UAS Drone Detection** — Real-time drone detection using YOLOv8, trained on Duality AI Falcon simulation data
-🔗 (https://github.com/ishhwarrii/counter-uas-yolov8-dronedetect)
-
-🇮🇳 **Incredible India Explorer** — Contributed features to this immersive, interactive web experience showcasing India's culture, history, geography, and wildlife (originally by [Eshajha19](https://github.com/Eshajha19/Incredible-India-Explorer)). Built with vanilla HTML/CSS/JS, featuring an interactive SVG map of India, a "Choose Your Own Adventure" freedom-movement narrative, a simulated AI travel guide, glassmorphism UI, and scroll-triggered animations.  
-🔗 https://github.com/ishhwarrii/Incredible-India-Explorer · 🌐 [Live Demo](https://incredible-india-explorer.vercel.app/)
-More contributions coming soon — steady progress over shortcuts.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ishhwarrii&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ishhwarrii&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishhwarrii&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/ishhwarrii" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:ishhwarriiedu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=120&section=footer" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/ishhwarrii) · [GitHub](https://github.com/ishhwarrii)
