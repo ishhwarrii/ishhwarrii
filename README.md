@@ -24,7 +24,11 @@ Marketing (Social media) and Design Head at **DYPSEM E-CELL**, Techfest IITB Cam
 ## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,html,java,r,css,cpp,pandas,NumPy,scikit-learn,fastapi,git,github,vscode&perline=10" alt="Tech stack">
+  ![Stack](https://skillicons.dev/icons?i=java,py,mysql,postgres,r,pandas,numpy,git,github)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 </p>
 
 ## Selected Work
